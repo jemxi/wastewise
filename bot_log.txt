@@ -1,0 +1,170 @@
+[2025-07-10 05:18:27] SQL INJECTION ATTEMPT | IP: 2001:fd8:b42a:e70:dc0:39d9:4cd5:a5d5 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 | Login: charlesmelegrito@gmail.com | Password: '='
+
+================================================================================
+🛑 HONEYPOT TRIGGERED - BOT OR ATTACKER ACTIVITY DETECTED
+================================================================================
+
+🌐 CONNECTION DETAILS
+    Timestamp           : 2025-07-10 13:18:27
+    IP Address          : 2001:fd8:b42a:e70:dc0:39d9:4cd5:a5d5
+    Port                : 52612
+    Protocol            : HTTP/1.1
+    Session Duration    : 00:09:34
+
+📥 REQUEST METADATA
+    HTTP Method         : GET
+    Request URI         : /logIn
+    Script              : /logIn.php
+    Referrer            : https://wastewise.shop/login
+    Content-Type        : Not Specified
+    Encoding            : gzip, deflate, br, zstd
+
+💻 DEVICE INFO
+    User-Agent          : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    GeoIP Location      : Country: Philippines, City: Talavera, ISP: Globe Telecom Inc.
+
+================================================================================
+
+[2025-07-10 05:44:32] SQL INJECTION ATTEMPT | IP: 2001:fd8:b42a:e70:dc0:39d9:4cd5:a5d5 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 | Login: charlesmelegrito@gmail.com | Password: '='
+
+================================================================================
+🛑 HONEYPOT TRIGGERED - BOT OR ATTACKER ACTIVITY DETECTED
+================================================================================
+
+🌐 CONNECTION DETAILS
+    Timestamp           : 2025-07-10 13:44:32
+    IP Address          : 2001:fd8:b42a:e70:dc0:39d9:4cd5:a5d5
+    Port                : 55618
+    Protocol            : HTTP/1.1
+    Session Duration    : 00:00:00
+
+📥 REQUEST METADATA
+    HTTP Method         : GET
+    Request URI         : /logIn
+    Script              : /logIn.php
+    Referrer            : https://wastewise.shop/login
+    Content-Type        : Not Specified
+    Encoding            : gzip, deflate, br, zstd
+
+💻 DEVICE INFO
+    User-Agent          : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    GeoIP Location      : Country: Philippines, City: Talavera, ISP: Globe Telecom Inc.
+
+================================================================================
+
+[2025-07-10 05:50:33] SQL INJECTION ATTEMPT | IP: 2001:fd8:b42a:e70:dc0:39d9:4cd5:a5d5 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 | Login: charleas@gmail.com | Password: '='
+
+================================================================================
+🛑 HONEYPOT TRIGGERED - BOT OR ATTACKER ACTIVITY DETECTED
+================================================================================
+
+🌐 CONNECTION DETAILS
+    Timestamp           : 2025-07-10 13:50:33
+    IP Address          : 2001:fd8:b42a:e70:dc0:39d9:4cd5:a5d5
+    Port                : 53296
+    Protocol            : HTTP/1.1
+    Session Duration    : 00:00:00
+
+📥 REQUEST METADATA
+    HTTP Method         : GET
+    Request URI         : /logIn
+    Script              : /logIn.php
+    Referrer            : https://wastewise.shop/login
+    Content-Type        : Not Specified
+    Encoding            : gzip, deflate, br, zstd
+
+💻 DEVICE INFO
+    User-Agent          : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    GeoIP Location      : Country: Philippines, City: Talavera, ISP: Globe Telecom Inc.
+
+================================================================================
+
+[2025-07-16 01:37:52] SQL INJECTION ATTEMPT | IP: 139.135.192.225 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 | Login: charlesmelegrito@gmail.com | Password: '='
+
+================================================================================
+🛑 HONEYPOT TRIGGERED - BOT OR ATTACKER ACTIVITY DETECTED
+================================================================================
+
+🌐 CONNECTION DETAILS
+    Timestamp           : 2025-07-16 09:37:52
+    IP Address          : 139.135.192.225
+    Port                : 31738
+    Protocol            : HTTP/1.1
+    Session Duration    : 00:00:00
+
+📥 REQUEST METADATA
+    HTTP Method         : GET
+    Request URI         : /logIn
+    Script              : /logIn.php
+    Referrer            : https://wastewise.shop/login
+    Content-Type        : Not Specified
+    Encoding            : gzip, deflate, br, zstd
+
+💻 DEVICE INFO
+    User-Agent          : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    GeoIP Location      : Country: Philippines, City: San Jose del Monte, ISP: Converge Information and Communications Technology Solutions
+
+================================================================================
+
+[2025-07-16 14:01:19] SQL INJECTION ATTEMPT | IP: 139.135.192.225 | UA: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 | Login: charlesmelegrito@gmail.com | Password: '='
+
+================================================================================
+🛑 HONEYPOT TRIGGERED - BOT OR ATTACKER ACTIVITY DETECTED
+================================================================================
+
+🌐 CONNECTION DETAILS
+    Timestamp           : 2025-07-16 22:01:19
+    IP Address          : 139.135.192.225
+    Port                : 54130
+    Protocol            : HTTP/1.1
+    Session Duration    : 00:00:00
+
+📥 REQUEST METADATA
+    HTTP Method         : GET
+    Request URI         : /logIn
+    Script              : /logIn.php
+    Referrer            : https://wastewise.shop/login
+    Content-Type        : Not Specified
+    Encoding            : gzip, deflate, br, zstd
+
+💻 DEVICE INFO
+    User-Agent          : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    GeoIP Location      : Country: Philippines, City: San Jose del Monte, ISP: Converge Information and Communications Technology Solutions
+
+================================================================================
+
+
+================================================================================
+🛑 HONEYPOT TRIGGERED - BOT OR ATTACKER ACTIVITY DETECTED
+================================================================================
+
+🌐 CONNECTION DETAILS
+    Timestamp           : 2025-07-16 22:01:46
+    IP Address          : 139.135.192.225
+    Port                : 54130
+    Protocol            : HTTP/1.1
+    Session Duration    : 00:00:27
+
+📥 REQUEST METADATA
+    HTTP Method         : GET
+    Request URI         : /logIn
+    Script              : /logIn.php
+    Referrer            : https://wastewise.shop/login
+    Content-Type        : Not Specified
+    Encoding            : gzip, deflate, br, zstd
+
+💻 DEVICE INFO
+    User-Agent          : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    GeoIP Location      : Country: Philippines, City: San Jose del Monte, ISP: Converge Information and Communications Technology Solutions
+
+================================================================================
+
+[2025-11-24 02:49:39] BOT DETECTED
+[2025-12-05 13:58:19] BOT DETECTED
+[2025-12-07 10:49:42] BOT DETECTED
+[2025-12-21 20:28:04] BOT DETECTED
+[2026-01-01 23:29:09] BOT DETECTED
+[2026-01-13 22:21:23] BOT DETECTED
+[2026-01-14 18:00:57] BOT DETECTED
+[2026-01-15 10:16:43] BOT DETECTED
+[2026-01-16 04:36:38] BOT DETECTED
